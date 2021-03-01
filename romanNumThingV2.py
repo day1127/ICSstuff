@@ -1,5 +1,5 @@
 def int_to_roman(input):
-    """ Convert an integer to a Roman numeral. """
+    """ it should work with all numbers im unsure, i cant test all 3999 numbers """
 
     if not isinstance(input, type(1)):
         raise TypeError ("expected integer, got %s" % type(input))
