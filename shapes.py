@@ -51,7 +51,7 @@ class Rectangle:
 
 
     def __str__(self):
-        return f"The dimentions of your rectangle are x= {self.x}, y= {self.y}, width = {self.width}, hight = {self.height}"
+        return f"The dimensions of your rectangle are x= {self.x}, y= {self.y}, width = {self.width}, hight = {self.height}"
 
 
 
